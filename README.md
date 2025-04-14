@@ -1,7 +1,19 @@
 <h1 align="center">Olá, eu sou o Peter Lourenço 👋</h1>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/React-007ACC?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</div>
+
+<br>
+
 <p align="center">
-  💻 Desenvolvedor Full Stack | 🛠️ Focado em arquitetura limpa e boas práticas de desenvolvimento <br>
+  🎯 Desenvolvedor Full-Stack apaixonado por tecnologia.<br>
+  🌍 Sempre em busca de aprender e aplicar novos conhecimentos.<br>
   📍 Brasil
 </p>
 
@@ -23,16 +35,14 @@ Sou um desenvolvedor full stack com mais de 5 anos de experiência, focado em co
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-043796?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-</div>
+- **Front-end:** React, NextJS, Angular, TypeScript, Context-API, Redux, React Query, Tailwind CSS  
+- **Back-end:** .NET Core, Node.js  
+- **Banco de Dados:** PostgreSQL, MongoDB, SQL Server  
+- **DevOps:** Docker, Kubernetes, Terraform, Git/GitHub, Jenkins, CI/CD  
+- **Testes:** Jest, React Testing Library, xUnit  
+- **Outros:** Git, GitHub, RESTful APIs, Clean Architecture, Clean Code, Solid
 
 ---
 
@@ -46,7 +56,7 @@ Sou um desenvolvedor full stack com mais de 5 anos de experiência, focado em co
 
 > Comparativo prático entre Redux e Zustand no React, com consumo de APIs via React Query. Ideal para entender padrões de gerenciamento de estado.
 
-### 🧙‍♂️ [w-spell](https://github.com/petlou/w-spell)
+### 🧙‍♂️ [Wizard Spell](https://github.com/petlou/w-spell)
 
 > Ferramenta pessoal para gerenciamento de magias em D&D, com foco em organização de magias preparadas e descrições simplificadas. Desenvolvido em Next.js com API integrada e Supabase.
 
@@ -60,6 +70,13 @@ Sou um desenvolvedor full stack com mais de 5 anos de experiência, focado em co
 </p>
 
 ---
+## 🏆 Conquistas
+
+- 🧊 Arctic Code Vault Contributor  
+- 🦈 Pull Shark  
+- ⚡ Quickdraw  
+
+---
 
 ## 📫 Vamos conversar?
 
@@ -68,4 +85,4 @@ Sou um desenvolvedor full stack com mais de 5 anos de experiência, focado em co
 
 ---
 
-_Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos ou entrar em contato para colaborações._
+*Este README foi criado para destacar minhas habilidades e projetos no GitHub. Fique à vontade para explorar e entrar em contato!*
